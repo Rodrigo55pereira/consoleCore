@@ -1,0 +1,11 @@
+C:\project\dotnet\consoleCore\GameTOP\bin\Debug\netcoreapp2.1\GameTOP.deps.json
+C:\project\dotnet\consoleCore\GameTOP\bin\Debug\netcoreapp2.1\GameTOP.runtimeconfig.json
+C:\project\dotnet\consoleCore\GameTOP\bin\Debug\netcoreapp2.1\GameTOP.runtimeconfig.dev.json
+C:\project\dotnet\consoleCore\GameTOP\bin\Debug\netcoreapp2.1\GameTOP.dll
+C:\project\dotnet\consoleCore\GameTOP\bin\Debug\netcoreapp2.1\GameTOP.pdb
+C:\project\dotnet\consoleCore\GameTOP\obj\Debug\netcoreapp2.1\GameTOP.csprojAssemblyReference.cache
+C:\project\dotnet\consoleCore\GameTOP\obj\Debug\netcoreapp2.1\GameTOP.AssemblyInfoInputs.cache
+C:\project\dotnet\consoleCore\GameTOP\obj\Debug\netcoreapp2.1\GameTOP.AssemblyInfo.cs
+C:\project\dotnet\consoleCore\GameTOP\obj\Debug\netcoreapp2.1\GameTOP.dll
+C:\project\dotnet\consoleCore\GameTOP\obj\Debug\netcoreapp2.1\GameTOP.pdb
+C:\project\dotnet\consoleCore\GameTOP\obj\Debug\netcoreapp2.1\GameTOP.csproj.CoreCompileInputs.cache
