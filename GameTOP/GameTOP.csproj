@@ -5,4 +5,9 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Jogador.cs~RFd73325f.TMP" />
+    <None Remove="JogoFODA.cs~RFd958b57.TMP" />
+  </ItemGroup>
+
 </Project>
