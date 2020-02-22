@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace GameTOP
+namespace GameTOP.Interface
 {
-    interface iJogador
+    public interface iJogador
     {
         string Corre();
         string Chuta();

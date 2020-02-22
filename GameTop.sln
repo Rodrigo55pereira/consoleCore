@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameTOP", "GameTOP\GameTOP.csproj", "{6EFF367A-A83F-4F54-BD0E-3614F84C9CDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameTOP.Lib", "GameTOP.Lib\GameTOP.Lib.csproj", "{D5638705-4986-4149-A0D1-18020CF31F83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameTOP.Interface", "GameTOP.Interface\GameTOP.Interface.csproj", "{7C11000E-5A81-4506-9B24-93F64C5AF22E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EFF367A-A83F-4F54-BD0E-3614F84C9CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EFF367A-A83F-4F54-BD0E-3614F84C9CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EFF367A-A83F-4F54-BD0E-3614F84C9CDD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6EFF367A-A83F-4F54-BD0E-3614F84C9CDD}.Debug|x64.Build.0 = Debug|Any CPU
+		{6EFF367A-A83F-4F54-BD0E-3614F84C9CDD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6EFF367A-A83F-4F54-BD0E-3614F84C9CDD}.Debug|x86.Build.0 = Debug|Any CPU
+		{6EFF367A-A83F-4F54-BD0E-3614F84C9CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EFF367A-A83F-4F54-BD0E-3614F84C9CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EFF367A-A83F-4F54-BD0E-3614F84C9CDD}.Release|x64.ActiveCfg = Release|Any CPU
+		{6EFF367A-A83F-4F54-BD0E-3614F84C9CDD}.Release|x64.Build.0 = Release|Any CPU
+		{6EFF367A-A83F-4F54-BD0E-3614F84C9CDD}.Release|x86.ActiveCfg = Release|Any CPU
+		{6EFF367A-A83F-4F54-BD0E-3614F84C9CDD}.Release|x86.Build.0 = Release|Any CPU
+		{D5638705-4986-4149-A0D1-18020CF31F83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5638705-4986-4149-A0D1-18020CF31F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5638705-4986-4149-A0D1-18020CF31F83}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D5638705-4986-4149-A0D1-18020CF31F83}.Debug|x64.Build.0 = Debug|Any CPU
+		{D5638705-4986-4149-A0D1-18020CF31F83}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D5638705-4986-4149-A0D1-18020CF31F83}.Debug|x86.Build.0 = Debug|Any CPU
+		{D5638705-4986-4149-A0D1-18020CF31F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5638705-4986-4149-A0D1-18020CF31F83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5638705-4986-4149-A0D1-18020CF31F83}.Release|x64.ActiveCfg = Release|Any CPU
+		{D5638705-4986-4149-A0D1-18020CF31F83}.Release|x64.Build.0 = Release|Any CPU
+		{D5638705-4986-4149-A0D1-18020CF31F83}.Release|x86.ActiveCfg = Release|Any CPU
+		{D5638705-4986-4149-A0D1-18020CF31F83}.Release|x86.Build.0 = Release|Any CPU
+		{7C11000E-5A81-4506-9B24-93F64C5AF22E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C11000E-5A81-4506-9B24-93F64C5AF22E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C11000E-5A81-4506-9B24-93F64C5AF22E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7C11000E-5A81-4506-9B24-93F64C5AF22E}.Debug|x64.Build.0 = Debug|Any CPU
+		{7C11000E-5A81-4506-9B24-93F64C5AF22E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7C11000E-5A81-4506-9B24-93F64C5AF22E}.Debug|x86.Build.0 = Debug|Any CPU
+		{7C11000E-5A81-4506-9B24-93F64C5AF22E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C11000E-5A81-4506-9B24-93F64C5AF22E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C11000E-5A81-4506-9B24-93F64C5AF22E}.Release|x64.ActiveCfg = Release|Any CPU
+		{7C11000E-5A81-4506-9B24-93F64C5AF22E}.Release|x64.Build.0 = Release|Any CPU
+		{7C11000E-5A81-4506-9B24-93F64C5AF22E}.Release|x86.ActiveCfg = Release|Any CPU
+		{7C11000E-5A81-4506-9B24-93F64C5AF22E}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D5638705-4986-4149-A0D1-18020CF31F83} = {4889619C-7B50-4805-BF16-A86A7099D695}
+	EndGlobalSection
+EndGlobal

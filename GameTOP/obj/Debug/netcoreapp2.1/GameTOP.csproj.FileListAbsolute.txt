@@ -8,3 +8,9 @@ C:\project\dotnet\consoleCore\GameTOP\obj\Debug\netcoreapp2.1\GameTOP.AssemblyIn
 C:\project\dotnet\consoleCore\GameTOP\obj\Debug\netcoreapp2.1\GameTOP.AssemblyInfo.cs
 C:\project\dotnet\consoleCore\GameTOP\obj\Debug\netcoreapp2.1\GameTOP.dll
 C:\project\dotnet\consoleCore\GameTOP\obj\Debug\netcoreapp2.1\GameTOP.pdb
+C:\project\dotnet\consoleCore\GameTOP\bin\Debug\netcoreapp2.1\GameTOP.interface.dll
+C:\project\dotnet\consoleCore\GameTOP\bin\Debug\netcoreapp2.1\GameTOP.Lib.dll
+C:\project\dotnet\consoleCore\GameTOP\bin\Debug\netcoreapp2.1\GameTOP.Lib.pdb
+C:\project\dotnet\consoleCore\GameTOP\bin\Debug\netcoreapp2.1\GameTOP.interface.pdb
+C:\project\dotnet\consoleCore\GameTOP\obj\Debug\netcoreapp2.1\GameTOP.csproj.CoreCompileInputs.cache
+C:\project\dotnet\consoleCore\GameTOP\obj\Debug\netcoreapp2.1\GameTOP.csproj.CopyComplete

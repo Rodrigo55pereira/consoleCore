@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\project\\dotnet\\consoleCore\\GameTOP.Lib\\GameTOP.Lib\\GameTOP.Lib.csproj": {}
+    "C:\\project\\dotnet\\consoleCore\\GameTOP.Interface\\GameTOP.Interface.csproj": {}
   },
   "projects": {
-    "C:\\project\\dotnet\\consoleCore\\GameTOP.Lib\\GameTOP.Lib\\GameTOP.Lib.csproj": {
+    "C:\\project\\dotnet\\consoleCore\\GameTOP.Interface\\GameTOP.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\project\\dotnet\\consoleCore\\GameTOP.Lib\\GameTOP.Lib\\GameTOP.Lib.csproj",
-        "projectName": "GameTOP.Lib",
-        "projectPath": "C:\\project\\dotnet\\consoleCore\\GameTOP.Lib\\GameTOP.Lib\\GameTOP.Lib.csproj",
+        "projectUniqueName": "C:\\project\\dotnet\\consoleCore\\GameTOP.Interface\\GameTOP.Interface.csproj",
+        "projectName": "GameTOP.Interface",
+        "projectPath": "C:\\project\\dotnet\\consoleCore\\GameTOP.Interface\\GameTOP.Interface.csproj",
         "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
-        "outputPath": "C:\\project\\dotnet\\consoleCore\\GameTOP.Lib\\GameTOP.Lib\\obj\\",
+        "outputPath": "C:\\project\\dotnet\\consoleCore\\GameTOP.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,14 +21,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.0"
+          "netcoreapp2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.0": {
+          "netcoreapp2.1": {
             "projectReferences": {}
           }
         },
@@ -39,7 +39,15 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.0": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
           "imports": [
             "net461"
           ],

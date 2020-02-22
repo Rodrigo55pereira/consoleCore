@@ -1,8 +1,9 @@
 ﻿using System;
+using GameTOP.Interface;
 
 namespace GameTOP
 {
-    class JogoFODA
+    public class JogoFODA
     {
         public readonly iJogador _jogador1;
         public readonly iJogador _jogador2;

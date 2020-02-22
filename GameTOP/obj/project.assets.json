@@ -207,6 +207,29 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "GameTOP.interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/GameTOP.interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GameTOP.interface.dll": {}
+        }
+      },
+      "GameTOP.Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "GameTOP.interface": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GameTOP.Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GameTOP.Lib.dll": {}
+        }
       }
     }
   },
@@ -681,10 +704,22 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "GameTOP.interface/1.0.0": {
+      "type": "project",
+      "path": "../GameTOP.Interface/GameTOP.interface.csproj",
+      "msbuildProject": "../GameTOP.Interface/GameTOP.interface.csproj"
+    },
+    "GameTOP.Lib/1.0.0": {
+      "type": "project",
+      "path": "../GameTOP.Lib/GameTOP.Lib.csproj",
+      "msbuildProject": "../GameTOP.Lib/GameTOP.Lib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "GameTOP.Lib >= 1.0.0",
+      "GameTOP.interface >= 1.0.0",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
@@ -717,7 +752,14 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\project\\dotnet\\consoleCore\\GameTOP.Interface\\GameTOP.interface.csproj": {
+              "projectPath": "C:\\project\\dotnet\\consoleCore\\GameTOP.Interface\\GameTOP.interface.csproj"
+            },
+            "C:\\project\\dotnet\\consoleCore\\GameTOP.Lib\\GameTOP.Lib.csproj": {
+              "projectPath": "C:\\project\\dotnet\\consoleCore\\GameTOP.Lib\\GameTOP.Lib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

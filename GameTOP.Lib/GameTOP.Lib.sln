@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.87
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameTOP.Lib", "GameTOP.Lib\GameTOP.Lib.csproj", "{7EE7CCB2-AEE8-44B0-8DC7-7E3E037FBDA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameTOP.Lib", "GameTOP.Lib.csproj", "{62ECA9DC-F555-4B36-8A49-FB9401ED5239}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7EE7CCB2-AEE8-44B0-8DC7-7E3E037FBDA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7EE7CCB2-AEE8-44B0-8DC7-7E3E037FBDA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7EE7CCB2-AEE8-44B0-8DC7-7E3E037FBDA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7EE7CCB2-AEE8-44B0-8DC7-7E3E037FBDA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62ECA9DC-F555-4B36-8A49-FB9401ED5239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62ECA9DC-F555-4B36-8A49-FB9401ED5239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62ECA9DC-F555-4B36-8A49-FB9401ED5239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62ECA9DC-F555-4B36-8A49-FB9401ED5239}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F10120F6-1180-4AC2-8795-CD84702CF5FF}
+		SolutionGuid = {BAB8754D-8EC6-496C-9A0E-229F59183B29}
 	EndGlobalSection
 EndGlobal
