@@ -12,5 +12,5 @@ C:\project\dotnet\consoleCore\GameTOP\bin\Debug\netcoreapp2.1\GameTOP.interface.
 C:\project\dotnet\consoleCore\GameTOP\bin\Debug\netcoreapp2.1\GameTOP.Lib.dll
 C:\project\dotnet\consoleCore\GameTOP\bin\Debug\netcoreapp2.1\GameTOP.Lib.pdb
 C:\project\dotnet\consoleCore\GameTOP\bin\Debug\netcoreapp2.1\GameTOP.interface.pdb
-C:\project\dotnet\consoleCore\GameTOP\obj\Debug\netcoreapp2.1\GameTOP.csproj.CoreCompileInputs.cache
 C:\project\dotnet\consoleCore\GameTOP\obj\Debug\netcoreapp2.1\GameTOP.csproj.CopyComplete
+C:\project\dotnet\consoleCore\GameTOP\obj\Debug\netcoreapp2.1\GameTOP.csproj.CoreCompileInputs.cache

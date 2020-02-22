@@ -2,8 +2,8 @@ C:\project\dotnet\consoleCore\GameTOP.Interface\bin\Debug\netcoreapp2.1\GameTOP.
 C:\project\dotnet\consoleCore\GameTOP.Interface\bin\Debug\netcoreapp2.1\GameTOP.interface.dll
 C:\project\dotnet\consoleCore\GameTOP.Interface\bin\Debug\netcoreapp2.1\GameTOP.interface.pdb
 C:\project\dotnet\consoleCore\GameTOP.Interface\obj\Debug\netcoreapp2.1\GameTOP.interface.csprojAssemblyReference.cache
-C:\project\dotnet\consoleCore\GameTOP.Interface\obj\Debug\netcoreapp2.1\GameTOP.interface.csproj.CoreCompileInputs.cache
 C:\project\dotnet\consoleCore\GameTOP.Interface\obj\Debug\netcoreapp2.1\GameTOP.interface.AssemblyInfoInputs.cache
 C:\project\dotnet\consoleCore\GameTOP.Interface\obj\Debug\netcoreapp2.1\GameTOP.interface.AssemblyInfo.cs
 C:\project\dotnet\consoleCore\GameTOP.Interface\obj\Debug\netcoreapp2.1\GameTOP.interface.dll
 C:\project\dotnet\consoleCore\GameTOP.Interface\obj\Debug\netcoreapp2.1\GameTOP.interface.pdb
+C:\project\dotnet\consoleCore\GameTOP.Interface\obj\Debug\netcoreapp2.1\GameTOP.interface.csproj.CoreCompileInputs.cache

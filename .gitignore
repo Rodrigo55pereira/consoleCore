@@ -1,3 +1,11 @@
 /GameTOP/.VS/
+/GameTOP/bin/
+/GameTOP/obj/
+
 /GameTOP.Lib/.VS/
+/GameTOP.Lib/bin/
+/GameTOP.Lib/obj/
+
 /GameTOP.Interface/.VS/
+/GameTOP.Interface/bin/
+/GameTOP.Interface/obj/

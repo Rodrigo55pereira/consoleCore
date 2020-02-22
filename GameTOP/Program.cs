@@ -8,7 +8,7 @@ namespace GameTOP
     {
         static void Main(string[] args)
         {
-            var jogo = new JogoFODA(new Jogador1("Ronaldo"), new Jogador2());
+            var jogo = new JogoFODA(new Jogador1("Ronaldo"), new Jogador2(), new Jogador3());
             
             jogo.IniciarJogo();
         }
